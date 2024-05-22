@@ -1,3 +1,7 @@
+
+![Uploading Untitled diagram-2024-05-22-163149.png…]()
+
+
 classDiagram
 iPhone <|-- ReprodutorMusical
 iPhone <|-- AparelhoTelefonico
